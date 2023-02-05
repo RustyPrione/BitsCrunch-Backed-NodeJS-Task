@@ -9,17 +9,19 @@ Additionally Includes:
 ## Instructions 🚀
 Open your Terminal in VsCode and follow the below instructions 
 
-STEP 1 - Install Node modules 🎒
+## STEP 1 - Install Node modules 🎒
 
 `npm i`
 
-STEP 2 - Boot Our Nodejs Application 🛠️
+### Change the `sample.env` file to `.env`   ⚠️  
+
+## STEP 2 - Boot Our Nodejs Application 🛠️
 
 `npm start`
 
 ![Screenshots](screenshots/1.png)
 
-STEP 3 - Required API as per Mentioned in Task Documentation 📝
+## STEP 3 - Required API as per Mentioned in Task Documentation 📝
 
 ## Note: Pass the API Key in Headers of Request 🔑
 
