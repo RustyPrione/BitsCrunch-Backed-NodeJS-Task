@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/user/Training/BitsCrunch/logs/.2f98ae6b7950adc18e42f93ea13d19dc3b74d0bb-audit.json",
+    "files": [
+        {
+            "date": 1675609693795,
+            "name": "/home/user/Training/BitsCrunch/logs/app-2023-02-05.log",
+            "hash": "941aaf220e428d39b2643e644ba9de049d4206d3d62bb19ada5adc9aa2c819ac"
+        }
+    ],
+    "hashType": "sha256"
+}
